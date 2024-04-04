@@ -15,14 +15,42 @@ MonoBehaviour:
   storyNumber: 1
   storyType: 0
   storyDone: 0
-  storyText: 
+  storyText: "\uD55C\uAE00\uD14D\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8"
   options:
   - optionText: "\uACF5\uACA9\uD55C\uB2E4."
     buttonText: 
     eventCheck:
       checkValue: 0
-      eventType: 0
-      successResult: []
+      eventType: 100
+      successResult:
+      - resultType: 0
+        value: 0
+        stats:
+          hpPoint: 0
+          spPoint: 0
+          currentHpPoint: 0
+          currentSpPotin: 0
+          currentXpPoint: 0
+          strength: 0
+          dexterity: 0
+          consitiution: 0
+          Intelligence: 0
+          wisdom: 0
+          charisma: 0
+      - resultType: 0
+        value: 0
+        stats:
+          hpPoint: 0
+          spPoint: 0
+          currentHpPoint: 0
+          currentSpPotin: 0
+          currentXpPoint: 0
+          strength: 0
+          dexterity: 0
+          consitiution: 0
+          Intelligence: 0
+          wisdom: 0
+          charisma: 0
       failResult: []
   - optionText: "\uB3C4\uB9DD\uAC04\uB2E4."
     buttonText: 

@@ -21,7 +21,7 @@ namespace STORYGAME
             NONE,
             GoToBattle = 100,
             CheckSTR = 1000,
-            ChecKDEX,
+            CheckDEX,
             CheckCON,
             CheckINT,
             CheckWIS,
