@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class ExEnemy : MonoBehaviour
 {
-    public ExPlayer targetPlayer;
+    public ExPlayer targetPlayer; //타겟 플레이어
 
-    private int damage = 20;
+    public int damage = 20;
 
     public void AttackPlayer(ExPlayer player)
     {
