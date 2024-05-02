@@ -50,7 +50,7 @@ namespace STORYGAME
 
         //현재 
         public int currentHpPoint;
-        public int currentSpPotin;
+        public int currentSpPoint;
         public int currentXpPoint;
 
         //기본 스탯 설정(Ex D&D)
