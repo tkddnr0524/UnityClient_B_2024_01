@@ -66,8 +66,8 @@ namespace STORYGAME
         {
             StoryModel tempStoryModels = FindStoryModel(number);
 
-            //StorySystem.Instance.currentStoryModel = tempStoryModels;
-            //StorySystem.instance.CoShowText();
+            StorySystem.instance.currentStoryModel = tempStoryModels;
+            StorySystem.instance.CoShowText();
         }
 
 
